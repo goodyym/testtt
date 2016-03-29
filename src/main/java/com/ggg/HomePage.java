@@ -25,5 +25,6 @@ public class HomePage extends WebPage {
         add(new Label("message", "If you see this message wicket is properly configured and running"));
 
         // TODO Add your page's components here
+        System.out.println("kkkkkkkkkkkk");
     }
 }
