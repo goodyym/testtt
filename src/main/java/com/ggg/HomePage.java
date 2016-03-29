@@ -26,5 +26,7 @@ public class HomePage extends WebPage {
 	System.out.println("==ggggggggggggg==");
         // TODO Add your page's components here
         System.out.println("kkkkkkkkkkkk");
+        
+        System.out.println("dddddddddddddddddddd");
     }
 }
