@@ -10,6 +10,7 @@ import org.apache.wicket.markup.html.WebPage;
 public class HomePage extends WebPage {
 
 	private static final long serialVersionUID = 1L;
+	private int a = 5;
 
 	// TODO Add any page properties or variables here
 
