@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ppp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ttt-fff-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ppp:war exploded" />
+    </root>
+  </artifact>
+</component>
