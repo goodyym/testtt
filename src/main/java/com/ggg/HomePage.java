@@ -12,6 +12,7 @@ public class HomePage extends WebPage {
 	private static final long serialVersionUID = 1L;
 	private int a = 5;
 	private String s = "ttt";
+	private String SS = "kk";
 
 	// TODO Add any page properties or variables here
 
