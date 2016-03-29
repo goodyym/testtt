@@ -22,9 +22,7 @@ public class HomePage extends WebPage {
 	 *            Page parameters
 	 */
     public HomePage(final PageParameters parameters) {
+        System.out.println("++++++++++++++++++++");
 
-
-        System.out.println("777766666666667");
-        System.out.println("99999999995559999");
     }
 }
