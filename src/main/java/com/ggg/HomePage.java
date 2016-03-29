@@ -24,7 +24,6 @@ public class HomePage extends WebPage {
 
 
         System.out.println("777766666666667");
-        System.out.println("777yyyyyyy77");
         System.out.println("99999999995559999");
     }
 }
